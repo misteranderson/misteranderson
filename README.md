@@ -1,5 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Architecture on the Wire @ Wells Fargo Bank
+- ⚡ Fun fact: None of my work-related code is publicly accessible
 - 🌱 I’m currently learning neo4j, cypher, and Linkurious
 - 📫 How to reach me: misteranderson at ericanderson dot com 
 - 📫 How to reach me: misteranderson on twitter
