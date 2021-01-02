@@ -2,6 +2,7 @@
 - 🔭 I’m currently working on Architecture on the Wire @ Wells Fargo Bank
 - 🌱 I’m currently learning neo4j, cypher, and Linkurious
 - 📫 How to reach me: misteranderson at ericanderson dot com 
+- 📫 How to reach me: misteranderson on twitter
 - 😄 Pronouns: he/him/his
 
 <!--
